@@ -72,6 +72,6 @@ body{
 footer{
     text-align: center;
 }
-body{
-    width: 100%;
+html, body {
+    content: center;
 }
