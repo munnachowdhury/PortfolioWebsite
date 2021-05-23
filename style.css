@@ -28,7 +28,7 @@ h3{
 }
 section{
     height: 760px;
-    padding-bottom: 150px;
+    padding-bottom: 100px;
 }
 body{
     margin:0%
@@ -71,4 +71,7 @@ body{
 }
 footer{
     text-align: center;
+}
+body{
+    margin: 0 auto;
 }
